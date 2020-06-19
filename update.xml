@@ -6,6 +6,6 @@
   <style type="text/css" id="dark-mode-custom-style" />
   <version>1.151.10.100</version>
   <url>https://github.com/azukazev/PMSUpdate/releases/download/v1.151.10.100/update.zip</url>
-  <changelog>https://azukazev.github.io/PMSUpdate/index.html</changelog>
+  <changelog>https://azukazev.github.io/PMSUpdate/index.html</changelog> 
   <mandatory>false</mandatory>
 </item>
