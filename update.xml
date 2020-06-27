@@ -4,8 +4,8 @@
   <style type="text/css" id="dark-mode-custom-style" />
   <link type="text/css" id="dark-mode" rel="stylesheet" href="moz-extension://77a5137e-22b8-4aaa-8fc6-ad492afb7bea/data/content_script/general/dark_1.css" />
   <style type="text/css" id="dark-mode-custom-style" />
-  <version>1.156.14.350</version>
-  <url>https://github.com/azukazev/PMSUpdate/releases/download/v1.156.14.350/update.zip</url>
+  <version>1.156.10.100</version>
+  <url>https://github.com/azukazev/PMSUpdate/releases/download/v1.156.10.100/update.zip</url>
   <changelog>https://azukazev.github.io/PMSUpdate/index.html</changelog> 
   <mandatory>false</mandatory>
 </item>
